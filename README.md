@@ -1,15 +1,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4812df70-6e0e-4f2b-9ead-53ea3e04bc18/deploy-status)](https://app.netlify.com/sites/glistening-meringue-642bee/deploys)
 
 Drbr's personal website, as of 2024. Forked and modified from the Fernfolio eleventy template. Original readme is below,
-which modifications that I needed to make to get the site to work in 2024.
+which modifications to get the site to work in 2024.
 
 # Fernfolio — An 11ty Portfolio Template
 
 Launch your personal portfolio in minutes and modify content without opening a code editor!
-
-<img width="1280" alt="fernfolio screenshot" src="https://raw.githubusercontent.com/TylerMRoderick/fernfolio-11ty-template/master/fernfolio-preview.jpeg">
-
-### <pre>🖥 [Demo](https://fernfolio.netlify.app/)</pre>
 
 ## 🤔 What is this?
 
@@ -68,13 +64,13 @@ If you want to test things locally before deploying, follow the steps below:
 
 ## 💻 Development Scripts
 
-**`pnpm start`**
+- **`pnpm start`**
 
-> Run 11ty with hot reload at localhost:8080
+  Run 11ty with hot reload at localhost:8080
 
-**`pnpm build`**
+- **`pnpm build`**
 
-> Generate minified production build
+  Generate minified production build
 
 Use this as the "Publish command" if needed by hosting such as Netlify.
 
@@ -93,10 +89,6 @@ as the token generated using the deploy to Netlify button can only access public
 regenerate your token, head to "Settings" in your Netlify site dashboard, go to the "Identity"
 section, then scroll to "Services" where you'll see an "Edit settings" button. Click that and you'll
 see a text link to "Generate access token in GitHub".
-
-## 🗣 Bug reports, feature requests, etc.
-
-This is a fun side project for me and I always welcome questions/comments. If you run into any problems or have a feature request, please open an issue. I try to read every one and will gladly assist you whenever possible.
 
 ## Credit
 
