@@ -12,8 +12,6 @@ const Home = createClass({
     return html`
       <main>
         <div class="home-page">
-          <div class="home-page__bg-square"></div>
-
           <!-- Hero -->
           <div class="hero">
             <div class="hero__col">
@@ -27,7 +25,8 @@ const Home = createClass({
                 alt="${entry.getIn(['data', 'image_alt'], null)}"
                 width="1000px"
                 height="1000px"
-                loading="lazy" />
+                loading="lazy"
+              />
             </div>
           </div>
 
@@ -66,7 +65,6 @@ const Home = createClass({
               </div>
             </div>
           </section>
-
 
           <!-- Article List Placeholder (for illustrative purposes) -->
           <div class="list-header">

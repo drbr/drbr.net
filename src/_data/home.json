@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Andrew Brandon",
+  "image": "src/assets/img/drbr-landing-pic.jpg",
+  "image_alt": "Picture of Andrew",
+  "body": "I am a software developer and musician based in Seattle."
 }
