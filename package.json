@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/drbr/drbr.dev"
+    "url": "https://github.com/drbr/drbr.net"
   },
   "author": {
     "name": "Tyler M. Roderick",
@@ -24,7 +24,7 @@
     "url": "https://www.tylerroderick.com/"
   },
   "license": "MIT",
-  "homepage": "https://github.com/drbr/drbr.dev",
+  "homepage": "https://github.com/drbr/drbr.net",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^2.0.1",
