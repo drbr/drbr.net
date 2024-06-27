@@ -1,7 +1,7 @@
 .site-header {
   position: fixed;
   width: 100%;
-  border-top: 3px solid var(--color-secondary);
+  padding-top: 3px;
   z-index: var(--z-header);
 
   :root[data-theme="dark"] & {
@@ -18,7 +18,7 @@
   padding: 8px 10px;
   border: 1px solid var(--color-border);
   border-radius: var(--border-radius);
-  background-color: var(--color-bg);
+  background-color: var(--color-bg-accent);
   box-shadow: var(--shadow);
 
   @media (min-width: 1024px) {
