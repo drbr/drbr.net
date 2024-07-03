@@ -28,6 +28,9 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
 
+  // Force layouts specified in the front matter to have a file extension
+  eleventyConfig.setLayoutResolution(false);
+
   // Trigger a build when files in this directory change
   eleventyConfig.addWatchTarget('./src/assets/scss/');
 
@@ -50,7 +53,7 @@ module.exports = function (eleventyConfig) {
     passthroughFileCopy: true,
     dir: {
       input: 'src',
-      layouts: "_layouts"
+      layouts: '_layouts',
     },
   };
 };
