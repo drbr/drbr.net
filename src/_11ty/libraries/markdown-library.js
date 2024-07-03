@@ -5,15 +5,13 @@ const Image = require('@11ty/eleventy-img');
 // Customize Markdown library and settings
 let markdown = markdownIt({
   html: true,
-  breaks: true,
-  linkify: true
+  linkify: true,
 }).use(anchor, {
   permalink: anchor.permalink.linkInsideHeader({
     symbol: '#',
-    placement: 'before'
-  })
+    placement: 'before',
+  }),
 });
-
 
 // Add responsive image suppport to markdown files
 // borrowed from: https://tomichen.com/blog/posts/20220416-responsive-images-in-markdown-with-eleventy-image
@@ -37,8 +35,8 @@ markdown.renderer.rules.image = function (tokens, idx) {
     }
 
     if (parsed.width && parsed.height) {
-      metadata.jpeg[0].width = parsed.width
-      metadata.jpeg[0].height = parsed.height
+      metadata.jpeg[0].width = parsed.width;
+      metadata.jpeg[0].height = parsed.height;
     }
 
     return Image.generateHTML(metadata, options);
@@ -60,8 +58,8 @@ markdown.renderer.rules.image = function (tokens, idx) {
 
   return Image.generateHTML(metadata, {
     sizes: parsed.sizes || '(max-width: 768px) 100vw, 768px',
-    ...htmlOpts
+    ...htmlOpts,
   });
-}
+};
 
 module.exports = markdown;
