@@ -2,7 +2,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ renderData.title or browserTitle or title or metadata.title }}</title>
-  <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
+  {% set description = metaDescription or renderData.metaDescription or summary or metadata.description %}
+  {% if description %}
+    <meta name="description" content="{{ description }}">
+  {% endif %}
   <link rel="dns-prefetch" href="https://identity.netlify.com">
 
   {# Canonical URL #}

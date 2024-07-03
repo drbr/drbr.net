@@ -2,7 +2,6 @@
 layout: blog.njk
 title: Articles
 browserTitle: Andrew Brandon – Articles
-metaDescription: Articles written by Andrew Brandon
 pagination:
   data: collections.post
   size: 20
