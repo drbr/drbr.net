@@ -8,17 +8,20 @@ eleventyNavigation:
   order: 1
 ---
 
-I am currently based in Seattle, Washington, United States, where I have lived since 2012 after
-graduating from the [University of Michigan](https://umich.edu) with dual bachelor's degrees in
-music and computer engineering.
+I am currently based in Seattle, Washington, United States, where I moved in 2012 after graduating
+from the [University of Michigan](https://umich.edu).
 
 # Tech industry
 
-I work as a software engineer with a focus on user interfaces. For more about my
-professional activities, visit my [LinkedIn profile](https://linkedin.com/in/andrewbr).
+In my professional life as a software engineer, I build intuitive tools and user interfaces. I have
+over a decade of experience as a frontend engineer at [Tableau](https://www.tableau.com/),
+[Snowflake](https://www.snowflake.com/), and [Amazon](https://www.amazon.com/). I have enjoyed
+helping people learn to code, especially as a volunteer teacher with
+[TEALS](https://www.microsoft.com/en-us/teals). For more information about my professional
+activities, visit my [LinkedIn profile](https://linkedin.com/in/andrewbr).
 
 # Music
 
-I have been playing the piano for over 30 years, focusing mostly on classical music with a heavy
-side dose of jazz, musical theatre, and video game music. I play regularly throughout the community,
-and at times I have also taught private piano lessons.
+As a pianist with over 30 years of experience, I believe that the arts are an indispensable part of
+life. I regularly perform, arrange, and jam, focusing mainly on classical music, jazz, video game
+music, and musical theatre. At times, I have taught private piano lessons to adults.
