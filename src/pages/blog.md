@@ -1,14 +1,14 @@
 ---
 layout: blog.njk
 title: Articles
-date: 2017-01-01
+browserTitle: Andrew Brandon – Articles
+metaDescription: Articles written by Andrew Brandon
 pagination:
   data: collections.post
   size: 20
-permalink: "blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
-metaDescription: A sample Blog page listing various posts.
-subtitle: A collection of technical blog posts and random thoughts
+permalink: 'blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html'
+subtitle: A collection of things I have written
 eleventyNavigation:
-  key: Blog
+  key: Articles
   order: 2
 ---

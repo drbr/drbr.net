@@ -1,8 +1,7 @@
 ---
 layout: pageWithTitle.njk
-title: About Me
-subtitle: ''
-metaDescription: About Andrew Brandon
+title: About me
+browserTitle: Andrew Brandon – About
 permalink: /about/index.html
 eleventyNavigation:
   key: About
