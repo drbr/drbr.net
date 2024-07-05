@@ -1,7 +1,7 @@
 ---
 section: contact
 layout: contact.njk
-title: Get in touch
+title: Contact
 browserTitle: Andrew Brandon – Contact
 permalink: /contact/index.html
 eleventyNavigation:
@@ -9,7 +9,4 @@ eleventyNavigation:
   order: 4
 ---
 
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.
+If you would like to get in touch, contact me using the form below!
