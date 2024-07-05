@@ -45,6 +45,8 @@ module.exports = function (eleventyConfig) {
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
 
+  eleventyConfig.addPlugin(require('./eleventy.config.drafts.js'));
+
   return {
     templateFormats: ['md', 'njk', 'html'],
     markdownTemplateEngine: 'njk',
