@@ -11,12 +11,12 @@ eleventyNavigation:
 I am currently based in Seattle, Washington, United States, where I moved in 2012 after graduating
 from the [University of Michigan](https://umich.edu).
 
-In my professional life as a software engineer, I am passionate about building intuitive user
-interfaces and developer tools, with over a decade of experience working on frontend at
-[Tableau](https://www.tableau.com/), [Snowflake](https://www.snowflake.com/), and
-[Amazon](https://www.amazon.com/). I enjoy helping people learn to code, especially during my time
-as a volunteer teacher with [TEALS](https://www.microsoft.com/en-us/teals). For more about my
-professional activities, visit my [LinkedIn profile](https://linkedin.com/in/andrewbr).
+In my professional life as a software engineer, with over a decade of experience working on frontend
+at [Tableau](https://www.tableau.com/), [Snowflake](https://www.snowflake.com/), and
+[Amazon](https://www.amazon.com/), I am passionate about building intuitive user interfaces and
+developer tools. I enjoy helping people learn to code, especially during my time as a volunteer
+teacher with [TEALS](https://www.microsoft.com/en-us/teals). For more about my professional
+activities, visit my [LinkedIn profile](https://linkedin.com/in/andrewbr).
 
 As a pianist for over 30 years, I believe that the arts are an indispensable part of life. I
 regularly perform, arrange, and jam, focusing mainly on classical, jazz, musical theatre, and video
