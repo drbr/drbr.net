@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Master Mind
 emoji: 🧠
 date: 2024-06-23T05:56:14.515Z
