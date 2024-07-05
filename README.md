@@ -1,7 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4812df70-6e0e-4f2b-9ead-53ea3e04bc18/deploy-status)](https://app.netlify.com/sites/glistening-meringue-642bee/deploys)
 
-Drbr's personal website, as of 2024. Forked and modified from the Fernfolio eleventy template. Original readme is below,
-which modifications to get the site to work in 2024.
+Drbr's personal website, as of 2024. Forked and modified from the [Fernfolio](https://github.com/TylerMRoderick/fernfolio-11ty-template) eleventy template
+by Tyler M.Roderick, which was in turn based on the [11ty-base-blog](https://github.com/11ty/eleventy-base-blog) template.
+Original readme is below, which modifications to get the site to work in 2024.
 
 # Fernfolio — An 11ty Portfolio Template
 
