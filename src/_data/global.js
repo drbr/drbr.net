@@ -1,0 +1,10 @@
+module.exports = {
+  logo: 'src/assets/img/drbr-logo.svg',
+  menu_icon: 'src/assets/img/icon-hamburger.svg',
+  close_icon: 'src/assets/img/icon-close.svg',
+  enable_theme_switch: false,
+  switch_theme_icon: 'src/assets/img/icon-sun.svg',
+  default_theme: 'light',
+  use_system_theme: false,
+  copyright_year: new Date().getFullYear(),
+};
