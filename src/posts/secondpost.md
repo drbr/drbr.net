@@ -1,4 +1,5 @@
 ---
+draft: true
 title: This is the second example post
 date: 2020-01-01T08:00:00.000Z
 summary: Bring to the table win-win survival strategies to ensure proactive domination.

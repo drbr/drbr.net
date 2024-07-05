@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Theme customizations
 date: 2020-10-15T12:23:39.598Z
 summary: Modify Fernfolio to meet your needs
