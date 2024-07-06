@@ -6,5 +6,4 @@ module.exports = {
   switch_theme_icon: 'src/assets/img/icon-sun.svg',
   default_theme: 'light',
   use_system_theme: false,
-  copyright_year: new Date().getFullYear(),
 };

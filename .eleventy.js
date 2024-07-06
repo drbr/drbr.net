@@ -21,6 +21,7 @@ module.exports = function (eleventyConfig) {
 
   // Shortcodes
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
+  eleventyConfig.addShortcode('build_year', () => new Date().getFullYear());
 
   // Libraries
   eleventyConfig.setLibrary('md', markdownLibrary);
