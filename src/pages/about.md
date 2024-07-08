@@ -22,7 +22,7 @@ As a pianist for over 30 years, I believe that the arts are an indispensable par
 regularly perform, arrange, and jam, focusing mainly on classical, jazz, musical theatre, and video
 game music. At times, I have also taught private piano lessons to adults.
 
-When I'm not at the computer or the piano, I enjoy cooking for friends, solving the daily NYT
-crossword puzzle, drinking tea, and riding my bicycle all over the Seattle area.
+When I'm not in front of a keyboard, I can be found cooking for friends, solving the daily NYT
+crossword puzzle, drinking tea, or riding my bicycle all over the Seattle area.
 
 ![Andrew in front of a Swiss high-speed train locomotive](/src/assets/img/andrewWithTrain.jpg)
